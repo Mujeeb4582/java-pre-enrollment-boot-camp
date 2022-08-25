@@ -15,4 +15,4 @@ function staircase(n){
 }
 
 let number = 6;
-staircase(6);
+staircase(number);
