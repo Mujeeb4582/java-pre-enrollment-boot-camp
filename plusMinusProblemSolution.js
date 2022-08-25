@@ -28,5 +28,5 @@ function plusMinus(arr) {
 }
 
 
-let arr = [-4, 3, -9, 0, 4, 1];
-plusMinus(arr);
+let ar = [-4, 3, -9, 0, 4, 1];
+plusMinus(ar);
